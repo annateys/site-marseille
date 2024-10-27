@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+@import url('components/container.css');
+@import url('components/avatar.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+
+
+body{
+  font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400px ;
+  font-style: normal;
+  font-size: 18px;
+  margin-bottom: 40px;
+  margin-left: 50px;
+  margin-right: 50px ;
+}
+
+
+h1{
+  font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400px ;
+  font-style: normal;
+  font-size: 30px ;
+  color: black ;
+  align-items: center;
+  margin-left: 50px;
+  margin-right: 50px ;
+
+}
+
+h2 {
+  font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400px ;
+  font-style: normal;
+  font-size: 30px ;
+  color: black ;
+  align-items: center;
+  margin-left: 50px;
+  margin-right: 50px ;
+}
+
+a {
+text-decoration: none;
+
+}

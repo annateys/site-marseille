@@ -1,0 +1,13 @@
+.banner {
+background-image: url(../../image/marseille-port.jpeg);
+color: white;
+padding: 100px 20px;
+background-size: cover;
+}
+
+.banner h1 {
+	font-size: 30px;
+	font weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px ;
+}
